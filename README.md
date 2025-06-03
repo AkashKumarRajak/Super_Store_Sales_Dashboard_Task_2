@@ -23,10 +23,10 @@ To create meaningful data visualizations and deliver key business insights using
 ## 📊 Dashboard Snapshots
 
 ### 📈 Forecast Dashboard
-![Forecast Dashboard](images/Dashboard_Forecast_preview.png)
+![Forecast Dashboard](Dashboard_Forecast_preview.png)
 
 ### 📋 Performance Dashboard
-![Main Dashboard](images/dashboard_preview.png)
+![Main Dashboard](dashboard_preview.png)
 
 ---
 
@@ -40,7 +40,7 @@ To create meaningful data visualizations and deliver key business insights using
 ---
 
 ## 📄 Files Included
-- `Super_Store_Sales_DashBoard.pbix` – Full Power BI dashboard
+- `Super_Store_Sales_DashBoard - Akash Kumar Rajak.pbix` – Full Power BI dashboard
 - `SuperStore_Sales_Dataset.csv` – Dataset used for the dashboard
 - `Akash Kumar Rajak (Task_2).pdf` – Report version of dashboard insights
 - Dashboard images for presentation
